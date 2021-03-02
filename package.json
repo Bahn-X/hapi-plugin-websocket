@@ -20,7 +20,7 @@
         "@hapi/hapi":              ">=18.0.0"
     },
     "dependencies": {
-        "urijs":                   "1.19.5",
+        "urijs":                   "^1.19.6",
         "@hapi/hoek":              "9.1.1",
         "@hapi/boom":              "9.1.1",
         "ws":                      "7.4.2",
